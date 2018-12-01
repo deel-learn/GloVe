@@ -39,3 +39,8 @@ build/*
 ._*
 
 text8.zip
+text8
+cooccurrence.bin
+cooccurrence.shuf.bin
+vocab.txt
+vectors.*
